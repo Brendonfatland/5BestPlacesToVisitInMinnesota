@@ -1,4 +1,4 @@
-Google Maps API
+5 Best Place's to Visit in Minnesota
 ================
 ![alt Landing Page Picture](/pic/landingPage.JPG "Landing Page")
 ![alt text](/pic/mainArea.JPG "Main Area")
