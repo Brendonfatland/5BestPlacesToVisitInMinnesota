@@ -142,16 +142,14 @@ function newLocation(newLat,newLng) {
 }
 
 
-// google.maps.event.addDomListener(window, 'load', initialize);
-
 $(document).ready(function () {
-     $("#MOA").on('click', function () {
-	  newLocation(44.8549,266.758);
-	});
-	 $("#duluth").on('click', function () {
-	  newLocation(46.7867,267.91);
-	});
-   $("#3").on('click', function () {
-	  newLocation(44.8549,266.758);
-	});
+
+
+
+  $("button").click(function(){
+  $(".landingPage").hide();
+  
+
+  });
+
 });
